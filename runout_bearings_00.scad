@@ -639,9 +639,9 @@ if (cmd=="")
 	//flag();
 	//fitting();
 	
-	//main_bottom();
+	main_bottom();
 	//slot_fix();
-	slot_fix_v();
+	//slot_fix_v();
 	
 	//stand(length=100);
 	//nofitting(dd=filament_cut);
