@@ -1,1 +1,3 @@
-# filament_runout_bearings
+Filament runout sensor
+Датчик кінця філаменту на підшипниках та оптичному модулі
+![photo](./photo_2022-06-30_21-20-55.jpg)
